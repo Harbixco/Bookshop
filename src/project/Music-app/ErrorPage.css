@@ -1,0 +1,19 @@
+.general{
+    text-align: center;
+}
+.page{
+    margin-top: 80px;
+    font-size: 50px;
+    font-weight: 600;
+}
+.go{
+       margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.link{
+      margin-top: 10px;
+    font-size: 20px;
+    color: blue;
+    text-decoration: underline;
+}

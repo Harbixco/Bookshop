@@ -1,0 +1,255 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* HOME */
+.banner {
+  background-image: url("../src//Images//slide3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.wrapper {
+  margin-top: 70px;
+  padding-top: 100px;
+  text-align: center;
+}
+.first-quote {
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+}
+.second-quote {
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 20px;
+}
+.container {
+  padding-bottom: 30px;
+}
+.quote1 {
+  margin-top: 25px;
+  text-align: center;
+  color: #254a71;
+  font-size: 22px;
+}
+.author1 {
+  text-align: center;
+  color: #254a71;
+  font-size: 22px;
+  margin-bottom: 25px;
+}
+
+/* HEADER */
+.innertext {
+  font-size: 17px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-top: -20px;
+  margin-bottom: -10px;
+}
+.navbarwrapper {
+  margin-bottom: -40px;
+}
+
+/* ABOUTUS */
+.aboutus {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 45px;
+  font-weight: 500;
+  color: white;
+}
+.wehave {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+.first-text {
+  font-size: 19px;
+  margin-top: 23px;
+}
+.slide5 {
+  margin-top: 20px;
+  height: 500px;
+  width: 750px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.slide6 {
+  margin-top: 20px;
+  height: 400px;
+  width: 750px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.slide9 {
+  margin-top: 20px;
+  height: 250px;
+  width: 750px;
+}
+.abouutcardbody {
+  background-color: #254a71;
+}
+.aboutcard {
+  margin-left: -24px;
+  margin-top: 19px;
+  height: 252px;
+}
+
+/* FAQ */
+.freq {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 27px;
+  font-weight: 500;
+}
+
+/* REGSIGN */
+.register {
+  margin-top: 150px;
+  font-size: 27px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.registerContainer {
+  background-color: #fff;
+}
+.email {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.signup {
+  margin-top: 20px;
+  margin-left: 78px;
+}
+.btnn {
+  margin-left: 10px;
+}
+.already {
+  margin-top: 30px;
+}
+@media only screen and (max-width: 600px) {
+  .wrapper {
+    margin-top: 50px;
+    padding-top: 70px;
+  }
+}
+
+/* SIGN IN */
+.userLogin {
+  font-size: 26px;
+  font-weight: 500;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+
+.donthave {
+  text-align: center;
+  margin-top: 20px;
+}
+.signup {
+  margin-left: 8px;
+  text-decoration: none;
+}
+.slide2 {
+  margin-top: 20px;
+  height: 400px;
+  width: 750px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.Loginbtn {
+  margin-top: 15px;
+}
+
+/* OUR SERVICES */
+.servicescard {
+  margin-top: 19px;
+}
+.servicescardbody {
+  background-color: #254a71;
+}
+
+.ourservices {
+  text-align: center;
+  margin-top: 14px;
+  font-size: 35px;
+  font-weight: 500;
+  color: white;
+}
+.ourcustomers {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+.slide10 {
+  margin-top: 20px;
+  height: 280px;
+  width: 663px;
+}
+.servicepoints {
+  margin-top: 10px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+/* CONTACT */
+.united {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.dailydosage {
+  margin-bottom: 40px;
+}
+
+.ContacusComp {
+  background-color: #254a71;
+  margin-top: 90px;
+  padding-top: 60px;
+  color: white;
+  padding-bottom: 40px;
+}
+
+/* NIGERIA OFFICE */
+.icon {
+  margin-top: 15px;
+}

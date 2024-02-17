@@ -1,0 +1,28 @@
+.column{
+    margin-top: 50px;
+}
+.text{
+    margin-left: 80px;
+}
+.real{
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.have{
+    font-size: 20px;
+     margin-left: 12px;
+}
+.experience{
+    margin-left: 22px;
+    font-size: 20px;
+}
+.music{
+    margin-left: 100px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.Started:hover{
+    color: white;
+    text-decoration: none;
+}

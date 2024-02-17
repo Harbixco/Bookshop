@@ -1,0 +1,43 @@
+.choose{
+    font-size: 30px;
+    font-weight: 600;
+}
+.second-row{
+    margin-top: 20px;
+}
+.select{
+    font-size: 20px;
+    margin-left: 45px;
+    margin-top: 15px;
+}
+.suitable{
+    margin-left: 75px;
+     font-size: 20px;
+}
+.host{
+    color: lightblue;
+    font-size: 30px;
+    font-weight: 600; 
+}
+.Guest{
+  color: lightblue;
+    font-size: 30px;
+    font-weight: 600; 
+}
+.Started:hover{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+/* SMALL SCREEN */
+ @media screen and (max-width: 767px) {
+
+.first{
+   margin-bottom: 20px;
+}
+.column{
+    text-align: center;
+}
+ }
