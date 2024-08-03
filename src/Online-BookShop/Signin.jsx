@@ -49,7 +49,7 @@ const Signin = () => {
             </div>
           </div>
           <div className="col-md-4">
-            <img src={slide2} className="slide2" alt='' />
+            <img src={slide2} className="slide2" alt="" />
           </div>
         </div>
       </div>
