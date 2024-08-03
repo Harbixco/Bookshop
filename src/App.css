@@ -39,6 +39,9 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+.home-wrapper{
+  overflow-x: hidden;
+}
 .wrapper {
   margin-top: 70px;
   padding-top: 100px;
