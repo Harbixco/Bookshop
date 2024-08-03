@@ -44,7 +44,7 @@ const AboutUs = () => {
               directly, which eliminates inventory costs as well.
             </div>
           </div>
-          <div className="col-md-5">
+          <div className="col-md-4">
             <img src={slide6} className="slide6" alt="image" />
           </div>
         </div>

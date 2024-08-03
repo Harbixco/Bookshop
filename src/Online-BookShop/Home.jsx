@@ -6,7 +6,7 @@ import Signin from "./Signin";
 
 const Home = () => {
   return (
-    <>
+    <div className="home-wrapper">
       <div id="Home" className="banner">
         <div className="wrapper">
           <div className="first-quote">
@@ -55,7 +55,7 @@ const Home = () => {
       <div id="ContactUs">
         <ContactUs />
       </div>
-    </>
+    </div>
   );
 };
 
