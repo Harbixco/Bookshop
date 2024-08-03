@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
 import slide9 from "../Images/slide9.jpg";
 import slide6 from "../Images/slide6.jpg";
@@ -8,13 +9,15 @@ const AboutUs = () => {
       <div className="container-fluid">
         <div className="row">
           <div className="col-md-5">
-            <img src={slide9} className="slide9" alt='' />
+            <img src={slide9} className="slide9" alt="" />
           </div>
           <div className="col-md-5 offset-md-2">
             <div className="card aboutcard">
               <div className="card-body abouutcardbody">
                 <div className="aboutus">ABOUT US</div>
-                <div className="wehave">We have track record of been the best in online BookShop</div>
+                <div className="wehave">
+                  We have track record of been the best in online BookShop
+                </div>
               </div>
             </div>
           </div>
@@ -42,7 +45,7 @@ const AboutUs = () => {
             </div>
           </div>
           <div className="col-md-5">
-            <img src={slide6} className="slide6" alt='' />
+            <img src={slide6} className="slide6" alt="image" />
           </div>
         </div>
       </div>

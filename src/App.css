@@ -165,12 +165,6 @@
 .already {
   margin-top: 30px;
 }
-@media only screen and (max-width: 600px) {
-  .wrapper {
-    margin-top: 50px;
-    padding-top: 70px;
-  }
-}
 
 /* SIGN IN */
 .userLogin {
@@ -196,6 +190,7 @@
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
+
 .Loginbtn {
   margin-top: 15px;
 }
@@ -252,4 +247,19 @@
 /* NIGERIA OFFICE */
 .icon {
   margin-top: 15px;
+}
+@media only screen and (max-width: 600px) {
+  .wrapper {
+    margin-top: 50px;
+    padding-top: 70px;
+  }
+  .slide9,
+  .slide6,
+  .slide2,
+  .slide10 {
+    margin-top: 20px;
+    height: 300px;
+    width: 320px;
+    border-radius: 10px;
+  }
 }
